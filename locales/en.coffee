@@ -33,7 +33,7 @@ landingBusiness:
   private: "Business users can create private projects and control access for a fully private version of Mapillary."
   integrate: "Integrate photo views"
   gis: "Use our APIs or widget to integrate a complete Mapillary viewer in your application or in your GIS system."
-  learn: "Learn more about our business plans."
+  learn: "Learn more about our business plans"
 landingHow:
   one: "1. Get the Mapillary app"
   oneAvailble: "Available for"
@@ -204,7 +204,7 @@ i18nIm:
   imageRotated: "The image is rotated"
   imageNotBlurred: "The image is not blurred correctly"
   imageShouldHide: "The image should be hidden"
-  sequenceShouldSplit: "The sequence should be split here"
+  sequenceShouldSplit: "The sequence should be split after this image"
   ifMapillaryUser: "If you're a Mapillary user, you can manually hide the image from within the 'Edit' image options"
   send: "Send"
   panorama: "Panorama"
